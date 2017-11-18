@@ -1,3 +1,5 @@
+consul-s3-snapshot
+
 # Binaries for programs and plugins
 *.exe
 *.dll
